@@ -2,13 +2,13 @@
 
 LaLaLand dancing scence Figures Detecting With YOLOv5.
 
-In this project, I took a slice of 3 minutes video, of the famous LaLaLand dancing scence.
+In this project, I took a three minutes slice of the famous LaLaLand dancing scence.<br>
 In this scence, there are two people who walk and dance in different backgrounds and lightnings conditions.
 For this task, there is a need of the machine to detect a human being and also succeed in differing between a man and a woman.<br>
 
 Therefore, there are two classes to detect:<br>
 1. Class 0 = man (green bounding box)
-2. 2.	Class 1 = woman (pink bounding box)
+2. Class 1 = woman (pink bounding box)
 <br>
 With Roboflow, I disassembled the video to seperated frames.<br>
 <br>
