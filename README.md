@@ -32,8 +32,6 @@ A summarization of the custom dataset generation:
 
 3. Train our custom YOLOv5 model:<br>
 ![image](https://user-images.githubusercontent.com/121958931/221200114-7ba017ec-802d-4710-af85-bac62b361696.png)
-<br>
-![image](https://user-images.githubusercontent.com/121958931/221200266-ab4b3efa-4fd4-4dec-96e0-0133363b5bb5.png)
 
 The training process:<br>
 ![image](https://user-images.githubusercontent.com/121958931/221200144-e33ea665-16dd-4a6c-850a-75409fb6ead2.png)
