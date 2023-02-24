@@ -50,7 +50,7 @@ The training process:<br>
 ![image](https://user-images.githubusercontent.com/121958931/221201167-ccda313c-c95c-4f78-89ea-3f4a40394d75.png)
 ![image](https://user-images.githubusercontent.com/121958931/221201145-3fa01688-bffd-49c4-a22c-9b4847beae69.png)
 
-**link to the whole scence and the detection of the figures in it is attached above.**
+**link to the whole scence and the detection of the figures in it, is attached above.**
 
 
 ## Summary and Conclusions
