@@ -43,7 +43,6 @@ The training process:<br>
 
 ## Results 
 
-![image](https://user-images.githubusercontent.com/121958931/221199843-56afca88-ab35-4d3a-86a9-b602abb9a3cf.png)
 ![image](https://user-images.githubusercontent.com/121958931/221201060-a905c716-281c-4a4c-a9ea-ef4cc77c67e7.png)
 ![image](https://user-images.githubusercontent.com/121958931/221201088-d05b9ed4-d194-4efd-86ef-4f19f456fba9.png)
 ![image](https://user-images.githubusercontent.com/121958931/221201106-2937db58-3b84-419b-b7f2-8eec241ddc24.png)
